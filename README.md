@@ -7,7 +7,7 @@
   />
 </a>
 
-**[🔗 Télécharger le Drumkit](TON-LIEN-ICI)**
+**[🔗 download](https://github.com/BugzEaterOnline/BugzEater-Drumkit/releases/tag/Tagv1)**
 **[🔗 My link](https://guns.lol/maisonenruine)**
 
 
@@ -30,14 +30,14 @@
 ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 ```
 
-## ══════════ R È G L E S ══════════
+## ══════════ R U L E S ══════════
 
-> **[00]** Gratuit pour tous mes broke boys/girls.
-> **[01]** Interdiction de partager, leak ou redistribuer le kit.
-> **[02]** Interdiction de revendre, même modifié.
-> **[03]** Usage strictement personnel.
-> **[04]** Crédit obligatoire : `@★★★☆☆`
-> **[05]** Toute violation entraîne un **ROARRR**
+> **[00]** Free for all my broke boys/girls.
+> **[01]** Do not share, leak, or redistribute the kit.
+> **[02]** Reselling is strictly prohibited, even if modified.
+> **[03]** For personal use only.
+> **[04]** Credit is required: `@bugzeater `
+> **[05]** Any violation will result in a **ROARRR**.
 
 ---
 
@@ -46,3 +46,4 @@
 **@★★★☆☆**
 
 *BugzEater Drumkit — 2026*
+
