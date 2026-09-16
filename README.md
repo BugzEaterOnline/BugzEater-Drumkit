@@ -9,6 +9,8 @@
 
 **[🔗 download](https://github.com/BugzEaterOnline/BugzEater-Drumkit/releases/tag/Tagv1)**
 **[🔗 My link](https://guns.lol/maisonenruine)**
+**[🔗paypal](https://www.paypal.com/paypalme/crushercandy)**
+
 
 
 
