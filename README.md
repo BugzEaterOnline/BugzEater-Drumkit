@@ -2,6 +2,10 @@
 
 ### BugzEater Drumkit 2026
 
+**[🔗Télécharger le Drumkit](TON-LIEN-ICI)**
+**[🔗 My link]([(https://guns.lol/maisonenruine)])**
+
+
 ```text
 ---------------⎛⎝ ≽ > ⩊ < ≼ ⎠⎞---------------
 
@@ -20,8 +24,6 @@
 ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 ```
 
----
-
 ## ══════════ R È G L E S ══════════
 
 > **[00]** Gratuit pour tous mes broke boys/girls.
@@ -35,6 +37,6 @@
 
 ### © COPYRIGHT
 
-**@BugzEater**
+**@★★★☆☆**
 
 *BugzEater Drumkit — 2026*
