@@ -31,7 +31,7 @@
 > **[02]** Interdiction de revendre, même modifié.
 > **[03]** Usage strictement personnel.
 > **[04]** Crédit obligatoire : `@★★★☆☆`
-> **[05]** Toute violation entraîne un **ROARRR** 🦁
+> **[05]** Toute violation entraîne un **ROARRR**
 
 ---
 
